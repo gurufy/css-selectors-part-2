@@ -1,0 +1,66 @@
+p {
+  margin: 0;
+}
+.header { 
+  font-style: italic;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+}
+.item {
+  margin: 8px;
+}
+.image {
+  width: 200px;
+  height: 200px;
+}
+.price {
+  font-size: 24px;
+  font-weight: bold;
+}
+.category {
+  color: #10c44c;
+  margin-bottom: 16px;
+}
+.title {
+  margin-bottom: 32px;
+}
+.button {
+  padding: 8px;
+  background-color: #005bff;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+.date {
+  color: #707f8d;
+  font-weight: bold;
+  font-size: 14px;
+}
+.seller {
+  color: #707f8d;
+}
+#ozon {
+ color: blue
+}
+#yandex{
+  color: red;
+}
+#rambler {
+  color: orange;
+}
+.hostel {
+  color: black;
+}
+#company1travel{
+  color: violet
+}
+#company2travel{
+  color: purple
+}
+#company3travel{
+  color: teal
+}
